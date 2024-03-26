@@ -27,6 +27,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 * Fornecer controles e padrões para que os requisitos do projeto sejam claros, adequados ao propósito e compreendidos por todas as partes responsáveis.
 * Articular conceitos iniciais, análise de problemas, seleção de viabilidade e opções, análise e modelagem e documentação de requisitos.
 
+![introdução](https://www.devmedia.com.br/imagens/engsoft/artigo6/image05.jpg)
   # Tipos de Requisitos
 
    * Funcionais
@@ -66,9 +67,13 @@ exemplo 3   | 8393
        
      
          # explicação da tabela 
+         
          * São muito úteis em projetos de ferramentas novas ou de sistemas cujo modo de funcionamento não seja bem conhecido pela equipe.
-         *
+         * documentação de requisitos
+         * análise e verificação de requisitos 
+         * gerenciamento de mudanças nos requisitos 
+         * encerramento da fase de requisitos.
         
-  
 
+[Para acessar o assunto, clique aqui](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
 
